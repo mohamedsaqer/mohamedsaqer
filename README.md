@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Laravel, React Native**
 
-- 📫 How to reach me **info@msaqer.com**
+- 📫 How to reach me **info@isaqqer.com**
 
 - 📄 Know about my experiences [https://www.cakeresume.com/mohamedsaqer](https://www.cakeresume.com/mohamedsaqer)
 
